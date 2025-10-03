@@ -6,6 +6,8 @@ services:
       VERSION: "10"
       RAM_SIZE: "8G"
       CPU_CORES: "4"
+      USERNAME: "zjimmie"
+      PASSWORD: "fuckoff"
     devices:
       - /dev/kvm
       - /dev/net/tun
